@@ -1,0 +1,7 @@
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ResolveAssemblyReference.cache
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\VS_2010_Practice\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
